@@ -1,0 +1,162 @@
+html , article  ,main citation { 
+  background-color: #ededed;
+
+}
+main , header section , #accueil 
+{
+  background-color: white; 
+}
+
+main 
+{
+background-color: white ;
+
+}
+a
+{
+  text-decoration: none;
+  padding: 1rem;
+}
+main , header nav , header img
+{
+  max-width: 980px;
+  margin:auto;
+  background-color: white;
+}
+
+h1 , nav , h3 , h2 ,main citation , h4
+{
+    font-family: 'Mali', cursive;
+
+}
+header h2  , main citation
+{  
+padding: 2rem;
+font-size: 24px;
+color:#1d1e3d;
+text-decoration: none;
+display: inline-block;
+
+}
+article a 
+{
+  background-color: #1d1e3d;
+  text-decoration: none;
+  color:white;
+  padding: 1rem;
+} 
+#accueil , main citation
+{
+  border-left:3px #017d9c solid; 
+  border-bottom:3px #017d9c solid; 
+
+}
+header img{
+    background-position: center;
+}
+header section {
+    display :flex ; 
+	justify-content: space-between;
+}
+
+ h1{
+    font-size: 3rem;
+    color:#db005a; 
+    background-color : rgba(246, 239, 239, 0.5);
+    margin:auto;
+    width: 30rem;
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+    padding: 2rem;
+
+} 
+#h1
+{
+    background-image: url("images/banner1.jpg");   
+  
+}
+h3{
+  box-sizing: 20px;
+  color:#017d9d ;
+}
+.flex {
+    display: flex;
+	flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+
+
+  }
+  article
+  {
+    padding :2rem;
+    font-size: 16px ;
+    font-family: 'Source Sans 3', sans-serif;
+    margin-bottom: 1rem;
+  
+  }
+  .flex  article 
+  {
+    width: 40%; 
+  }
+  .flex  img
+  {
+    width: 100%; 
+  }
+  #finmain article
+  {
+    background-color: #db005a;
+    width: 100%;
+    color:white;
+
+  }
+  
+ h2{text-align: center;
+font-size: 28px;}
+#form1{
+  width: 50%;
+
+} 
+h4{
+  font-size: 3rem;
+  text-align: center;
+}
+ 
+  main citation 
+  {
+   text-align: center;
+    width: 80%;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top:2rem;
+  }
+  #finmain2
+ 
+  {
+    text-align: center;
+    background-color: #444444;
+    width: 100%;
+    padding: 3rem;
+    color:white ;
+  }
+  footer img 
+  { 
+    height: 50px;
+    width: 50px;
+  }
+  footer a{
+    color:#f05929;
+  }
+  #finmain1 
+  {
+color:white;
+  }
+  h5{
+    font-size: 14px;
+  }
+
+  #fa-solid
+  { text-align: center;
+    display: block;
+    
+  }
